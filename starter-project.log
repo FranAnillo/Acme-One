@@ -1,0 +1,4 @@
+INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on DESKTOP-BHI57B9 with PID 19736 (C:\Users\USER-PC\Desktop\Workspace-21.1\Starters\Starter-Project\target\classes started by USER-PC in C:\Users\USER-PC\Desktop\Workspace-21.1\Starters\Starter-Project)
+INFO [acme.Launcher] The following profiles are active: development,populator
+INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on DESKTOP-BHI57B9 with PID 33044 (C:\Users\USER-PC\Desktop\Workspace-21.1\Starters\Starter-Project\target\classes started by USER-PC in C:\Users\USER-PC\Desktop\Workspace-21.1\Starters\Starter-Project)
+INFO [acme.Launcher] The following profiles are active: development,populator
