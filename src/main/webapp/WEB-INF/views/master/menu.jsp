@@ -21,6 +21,8 @@
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.fraanicar.favourite-link" action="http://www.youtube.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.alesevbar.favourite-link" action="http://www.spotify.com/"/>
+			
 
 		</acme:menu-option>
 
@@ -36,12 +38,14 @@
 		<acme:menu-option code="master.menu.provider" access="hasRole('Provider')">
 			<acme:menu-suboption code="master.menu.provider.favourite-link" action="http://www.example.com/"/>
 			<acme:menu-suboption code="master.menu.provider.fraanicar.favourite-link" action="http://www.youtube.com/"/>
+			<acme:menu-suboption code="master.menu.provider.alesevbar.favourite-link" action="http://www.spotify.com/"/>
 			
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.consumer" access="hasRole('Consumer')">
 			<acme:menu-suboption code="master.menu.consumer.favourite-link" action="http://www.example.com/"/>
 			<acme:menu-suboption code="master.menu.consumer.fraanicar.favourite-link" action="http://www.youtube.com/"/>
+			<acme:menu-suboption code="master.menu.consumer.alesevbar.favourite-link" action="http://www.spotify.com/"/>
 			
 		</acme:menu-option>
 	</acme:menu-left>
