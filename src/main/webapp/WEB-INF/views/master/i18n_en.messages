@@ -34,6 +34,7 @@ master.menu.anonymous.fraanicar.favourite-link = Francisco's favourite link
 master.menu.anonymous.dandorsan.favourite-link = Daniel's favourite link
 master.menu.anonymous.alvalcgra.favourite-link = Alvaro's favourite link
 master.menu.anonymous.eugvicvaz.favourite-link = Eugenio's favourite link
+master.menu.anonymous.alesevbar.favourite-link = Alejandro's favourite link
 
 # master.menu.administrator ###################################################
 
@@ -53,6 +54,7 @@ master.menu.provider.fraanicar.favourite-link = Francisco's favourite link
 master.menu.provider.dandorsan.favourite-link = Daniel's favourite link
 master.menu.provider.alvalcgra.favourite-link = Alvaro's favourite link
 master.menu.provider.eugvicvaz.favourite-link = Eugenio's favourite link
+master.menu.provider.alesevbar.favourite-link = Alejandro's favourite link
 
 # master.menu.consumer ##########################################################
 
@@ -63,6 +65,7 @@ master.menu.consumer.fraanicar.favourite-link = Francisco's favourite link
 master.menu.consumer.dandorsan.favourite-link = Daniel's favourite link
 master.menu.consumer.alvalcgra.favourite-link = Alvaro's favourite link
 master.menu.consumer.eugvicvaz.favourite-link = Eugenio's favourite link
+master.menu.consumer.alesevbar.favourite-link = Alejandro's favourite link
 
 # master.menu.user-account ####################################################
 

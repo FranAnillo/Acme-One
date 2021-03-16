@@ -25,7 +25,8 @@
 			<acme:menu-suboption code="master.menu.anonymous.dandorsan.favourite-link" action="http://www.dazn.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.alvalcgra.favourite-link" action="https://es.hboespana.com/"/>
       <acme:menu-suboption code="master.menu.anonymous.eugvicvaz.favourite-link" action="https://www.twitch.tv/elmiillor"/>
-      
+      <acme:menu-suboption code="master.menu.anonymous.alesevbar.favourite-link" action="http://www.spotify.com/"/>
+
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
@@ -44,7 +45,8 @@
 			<acme:menu-suboption code="master.menu.provider.dandorsan.favourite-link" action="http://www.dazn.com/"/>
       <acme:menu-suboption code="master.menu.provider.alvalcgra.favourite-link" action="https://es.hboespana.com/"/>
       <acme:menu-suboption code="master.menu.provider.eugvicvaz.favourite-link" action="https://www.twitch.tv/elmiillor"/>
-			
+			<acme:menu-suboption code="master.menu.provider.alesevbar.favourite-link" action="http://www.spotify.com/"/>
+
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.consumer" access="hasRole('Consumer')">
@@ -54,7 +56,8 @@
 			<acme:menu-suboption code="master.menu.consumer.dandorsan.favourite-link" action="http://www.dazn.com/"/>
  			<acme:menu-suboption code="master.menu.consumer.alvalcgra.favourite-link" action="https://es.hboespana.com/"/>
       <acme:menu-suboption code="master.menu.consumer.eugvicvaz.favourite-link" action="https://www.twitch.tv/elmiillor"/>
-			
+			<acme:menu-suboption code="master.menu.consumer.alesevbar.favourite-link" action="http://www.spotify.com/"/>
+
     </acme:menu-option>
 	</acme:menu-left>
 
