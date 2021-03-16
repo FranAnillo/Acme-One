@@ -29,6 +29,7 @@ master.menu.sign-out = Salir
 
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.jesvievaz.favourite-link = Enlace favorito de Jesus
 
 # master.menu.administrator ###################################################
 
@@ -43,12 +44,13 @@ master.menu.administrator.shutdown = Parar el sistema
 
 master.menu.provider = Proveedor
 master.menu.provider.favourite-link = Enlace favorito
+master.menu.provider.jesvievaz.favourite-link = Enlace favorito de Jesus
 
 # master.menu.consumer ##########################################################
 
 master.menu.consumer = Consumidor
 master.menu.consumer.favourite-link = Enlace favorito
-
+master.menu.consumer.jesvievaz.favourite-link = Enlace favorito de Jesus
 # master.menu.user-account ####################################################
 
 master.menu.user-account = Cuenta
