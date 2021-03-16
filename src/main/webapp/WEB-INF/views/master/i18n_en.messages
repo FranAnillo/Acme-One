@@ -29,6 +29,7 @@ master.menu.sign-out = Sign out
 
 master.menu.anonymous = Anonymous
 master.menu.anonymous.favourite-link = Favourite link
+master.menu.anonymous.jesvievaz.favourite-link = Jesus's favourite link
 master.menu.anonymous.fraanicar.favourite-link = Francisco's favourite link
 master.menu.anonymous.dandorsan.favourite-link = Daniel's favourite link
 
@@ -45,6 +46,7 @@ master.menu.administrator.shutdown = Shut down
 
 master.menu.provider = Provider
 master.menu.provider.favourite-link = Favourite link
+master.menu.provider.jesvievaz.favourite-link = Jesus's favourite link
 master.menu.provider.fraanicar.favourite-link = Francisco's favourite link
 master.menu.provider.dandorsan.favourite-link = Daniel's favourite link
 
@@ -52,6 +54,7 @@ master.menu.provider.dandorsan.favourite-link = Daniel's favourite link
 
 master.menu.consumer = Consumer
 master.menu.consumer.favourite-link = Favourite link
+master.menu.consumer.jesvievaz.favourite-link = Jesus's favourite link
 master.menu.consumer.fraanicar.favourite-link = Francisco's favourite link
 master.menu.consumer.dandorsan.favourite-link = Daniel's favourite link
 
@@ -110,4 +113,3 @@ master.panic.label.request = Request:
 master.panic.label.status = Status:
 master.panic.label.exceptions = Exceptions:
 master.panic.text.consult-log = Please, consult the log to see them full stack trace.
-
