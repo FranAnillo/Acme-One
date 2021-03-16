@@ -29,12 +29,12 @@ master.menu.sign-out = Salir
 
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
-master.menu.anonymous.jesvievaz.favourite-link = Enlace favorito de Jesus
-master.menu.anonymous.fraanicar.favourite-link = Enlace favorito de Francisco
-master.menu.anonymous.dandorsan.favourite-link = Enlace favorito de Daniel
-master.menu.anonymous.alvalcgra.favourite-link = Enlace favorito de Alvaro
-master.menu.anonymous.eugvicvaz.favourite-link = Enlace favorito de Eugenio
-master.menu.anonymous.alesevbar.favourite-link = Enlace favorito de Alejandro
+master.menu.anonymous.jesvievaz.favourite-link = Enlace favorito de Viera
+master.menu.anonymous.fraanicar.favourite-link = Enlace favorito de Anillo
+master.menu.anonymous.dandorsan.favourite-link = Enlace favorito de Dorante
+master.menu.anonymous.alvalcgra.favourite-link = Enlace favorito de Alcón
+master.menu.anonymous.eugvicvaz.favourite-link = Enlace favorito de Vicente
+master.menu.anonymous.alesevbar.favourite-link = Enlace favorito de Sevillano
 
 # master.menu.administrator ###################################################
 
@@ -49,23 +49,11 @@ master.menu.administrator.shutdown = Parar el sistema
 
 master.menu.provider = Proveedor
 master.menu.provider.favourite-link = Enlace favorito
-master.menu.provider.jesvievaz.favourite-link = Enlace favorito de Jesus
-master.menu.provider.fraanicar.favourite-link = Enlace favorito de Francisco
-master.menu.provider.dandorsan.favourite-link = Enlace favorito de Daniel
-master.menu.provider.alvalcgra.favourite-link = Enlace favorito de Alvaro
-master.menu.provider.eugvicvaz.favourite-link = Enlace favorito de Eugenio
-master.menu.provider.alesevbar.favourite-link = Enlace favorito de Alejandro
 
 # master.menu.consumer ##########################################################
 
 master.menu.consumer = Consumidor
 master.menu.consumer.favourite-link = Enlace favorito
-master.menu.consumer.jesvievaz.favourite-link = Enlace favorito de Jesus
-master.menu.consumer.fraanicar.favourite-link = Enlace favorito de Francisco
-master.menu.consumer.dandorsan.favourite-link = Enlace favorito de Daniel
-master.menu.consumer.alvalcgra.favourite-link = Enlace favorito de Alvaro
-master.menu.consumer.eugvicvaz.favourite-link = Enlace favorito de Eugenio
-master.menu.consumer.alesevbar.favourite-link = Enlace favorito de Alejandro
 
 # master.menu.user-account ####################################################
 
