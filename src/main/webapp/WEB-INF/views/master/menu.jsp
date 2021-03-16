@@ -23,6 +23,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.jesvievaz.favourite-link" action="https://www.netflix.com//"/>
 			<acme:menu-suboption code="master.menu.anonymous.fraanicar.favourite-link" action="http://www.youtube.com/"/>
 			<acme:menu-suboption code="master.menu.anonymus.dandorsan.favourite-link" action="http://www.dazn.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.alvalcgra.favourite-link" action="https://es.hboespana.com/"/>
 
 		</acme:menu-option>
 
@@ -40,7 +41,8 @@
 			<acme:menu-suboption code="master.menu.provider.jesvievaz.favourite-link" action="https://www.netflix.com//"/>
 			<acme:menu-suboption code="master.menu.provider.fraanicar.favourite-link" action="http://www.youtube.com/"/>
 			<acme:menu-suboption code="master.menu.provider.dandorsan.favourite-link" action="http://www.dazn.com/"/>
-      
+      <acme:menu-suboption code="master.menu.provider.alvalcgra.favourite-link" action="https://es.hboespana.com/"/>
+
 			
 		</acme:menu-option>
 
@@ -49,7 +51,8 @@
 			<acme:menu-suboption code="master.menu.consumer.jesvievaz.favourite-link" action="https://www.netflix.com//"/>
 			<acme:menu-suboption code="master.menu.consumer.fraanicar.favourite-link" action="http://www.youtube.com/"/>
 			<acme:menu-suboption code="master.menu.consumer.dandorsan.favourite-link" action="http://www.dazn.com/"/>
-      
+ 			<acme:menu-suboption code="master.menu.consumer.alvalcgra.favourite-link" action="https://es.hboespana.com/"/>
+
 			
     </acme:menu-option>
 	</acme:menu-left>
