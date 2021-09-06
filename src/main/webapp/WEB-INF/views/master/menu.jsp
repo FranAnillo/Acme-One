@@ -25,7 +25,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.dandorsan.favourite-link" action="http://www.dazn.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.alvalcgra.favourite-link" action="https://es.hboespana.com/"/>
       <acme:menu-suboption code="master.menu.anonymous.eugvicvaz.favourite-link" action="https://www.twitch.tv/elmiillor"/>
-      <acme:menu-suboption code="master.menu.anonymous.alesevbar.favourite-link" action="http://www.spotify.com/"/>
+      <acme:menu-suboption code="master.menu.anonymous.dierodcam.favourite-link" action="http://www.spotify.com/"/>
 
 		</acme:menu-option>
 
